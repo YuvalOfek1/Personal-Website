@@ -1,0 +1,115 @@
+
+
+body{
+    margin: 0;
+    text-align: center; 
+    
+}
+
+
+.top-container
+{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+    font-family: "Mouse Memoirs", sans-serif;
+    font-size: 24px;
+    
+}
+
+p
+{
+    margin: 0px 0px 10px 0px;
+}
+
+h1
+{
+    margin: 0;
+    font-size: 562.5%;
+}
+h2
+{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+}
+.middle-container
+{
+    font-family: sans-serif;
+}
+
+.bottom-container
+{
+  font-family: sans-serif;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    bottom:300px;
+    left:300px;
+}
+
+.top-cloud
+{
+    position: absolute;
+    top:50px;
+    right:300px;
+}
+
+.profilepic
+{
+    width:150px;
+}
+.skill-img
+{
+    width:150px;
+}
+
+.skill-row
+{
+    /*makes it inline block*/
+    display: inline-block;
+    margin: 0px 20px 0px 40px;
+}
+.skills
+{
+    background-color: #E4F9F5;
+    padding: 7px;
+    margin-top: 25px;;
+}
+.CV
+{
+    margin-top: 25px;
+}
+
+h3
+{
+    margin-bottom: 5px;
+}
+
+.icon
+{
+    width:20px;
+    margin-left: 5px;
+}
+
+#github
+{
+    width: 23px;
+}
+
+.contact-me
+{
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+.footer-link:hover
+{
+    color:red;
+}
+.btn:hover
+{
+    background-color: red;
+    color: white;
+}
+

@@ -1,0 +1,57 @@
+body
+{
+    background-color: #FAF0D7;
+    color: #525586;
+    /* change the font to arial */
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+hr
+{ 
+    border-style: dotted none none;
+    border-color: rgb(162, 162, 163);
+    border-width: 3px;
+}
+h1
+{
+    color: #3e3e69;
+}
+h3
+{
+    color: #3e3e69;
+}
+#starter
+{
+    color:black;
+}
+
+.circular
+{
+    border-radius: 100%;
+}
+
+.links:hover
+{
+    color:red;
+}
+
+#hobbyspace
+{
+    margin-right: 8px;
+}
+
+.icon
+{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#giticon
+{
+    margin-top: 7px;
+}
+
+#mailtext
+{
+    margin-left: 2px;
+}
