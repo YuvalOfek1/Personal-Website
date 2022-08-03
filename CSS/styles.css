@@ -31,6 +31,7 @@ h2
 {
     font-size: 2.5rem;
     font-family: sans-serif;
+    margin: 5px;
 }
 .middle-container
 {
@@ -59,6 +60,7 @@ h2
 .profilepic
 {
     width:150px;
+    margin-top: 15px;
 }
 .skill-img
 {
