@@ -14,9 +14,17 @@ body{
     position: relative;
     font-family: "Dancing Script", cursive;
     font-size: 24px;
-    
 }
-
+.top-cloud
+{
+    position: absolute;
+    top:50px;
+    right:300px;
+}
+#mytitle
+{
+    font-family: sans-serif;
+}
 .bottom-cloud
 {
     position: absolute;
@@ -24,12 +32,7 @@ body{
     left:250px;
 }
 
-.top-cloud
-{
-    position: absolute;
-    top:50px;
-    right:300px;
-}
+
 
 #hello
 {
@@ -79,33 +82,27 @@ h2
 {
     padding: 200px 100px;
 }
-h2
-{
-    font-size:60px
-}
-
-
-.bottom-container
-{
-  font-family: sans-serif;
-  padding: 200px 100px;
-  font-size: 27px;
-}
-
-
-
-
-
 .profilepic
 {
     width:250px;
     margin-top: 15px;
     
 }
+
+h2
+{
+    font-size:60px
+}
 .skill-img
 {
     width:130px;
 }
+
+#mada.skill-row
+{
+    margin-bottom: 0px;
+}
+
 #ambul
 {
     width: 150px;
@@ -114,6 +111,7 @@ h2
 {
     padding-bottom: 10px;
 }
+
 hr
 {
     width: 7%;
@@ -136,28 +134,8 @@ hr
 .skills
 {
     background-color: #E4F9F5;
-    padding: 7px;
     margin-top: 25px;
     padding: 200px 100px;
-}
-#myskills
-{
-    padding-top: 100px;
-}
-
-.CV
-{
-    margin-top: 25px;
-}
-.cvlink:hover
-{
-    color: red;
-    background-color: blanchedalmond;
-}
-
-h3
-{
-    margin: 0;
 }
 
 .icon
@@ -196,6 +174,29 @@ h3
 {
     text-decoration: underline;
 }
+
+.bottom-container
+{
+  font-family: sans-serif;
+  padding: 200px 100px;
+  font-size: 27px;
+}
+.CV
+{
+    margin-top: 25px;
+}
+.cvlink:hover
+{
+    color: red;
+    background-color: blanchedalmond;
+}
+
+h3
+{
+    margin: 0;
+}
+
+
 
 footer
 {
