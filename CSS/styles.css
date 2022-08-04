@@ -141,13 +141,13 @@ h3
 .icon
 {
     width:20px;
-    margin-left: 5px;
+    margin-right: 5px;
 
 }
 
 #github
 {
-    width: 23px;
+    width: 22px;
 }
 
 .contact-me
@@ -155,13 +155,22 @@ h3
     margin-bottom: 10px;
     font-family: sans-serif;
 }
-.footer-link:hover
+.contactbtn
 {
-    color:red;
+    background-color: #19476d6c;
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 13px;
+    font-size: 16px;
+    font-family: sans-serif;
+    cursor: pointer;
+    height: 50px;
 }
-.btn:hover
+.contactbtn:hover
 {
-    background-color: red;
-    color: white;
+    text-decoration: underline;
 }
+
+
 
