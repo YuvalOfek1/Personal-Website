@@ -30,10 +30,10 @@ button
 {
     background-color: #2c607e;
     color: white;
-    padding: 10px;
+    padding: 20px;
     border: none;
     border-radius: 13px;
-    font-size: 16px;
+    font-size: 35px;
     font-family: sans-serif;
     cursor: pointer;
 }
@@ -57,7 +57,18 @@ h2
 .middle-container
 {
     font-family: sans-serif;
+    
 
+}
+
+.profile
+{
+    padding: 200px 100px;
+    font-size: 27px;
+}
+.profile h2
+{
+    font-size:60px
 }
 
 
@@ -89,8 +100,9 @@ h2
 
 .profilepic
 {
-    width:150px;
+    width:250px;
     margin-top: 15px;
+    
 }
 .skill-img
 {
@@ -115,6 +127,8 @@ hr
     border-style: dotted none none none;
 
 }
+
+
 .skill-row
 {
     /*makes it inline block*/
