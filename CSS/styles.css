@@ -17,11 +17,28 @@ body{
     padding-bottom: 100px;
 }
 
+.bottom-cloud
+{
+    position: absolute;
+    bottom:50px;
+    left:250px;
+}
 
+.top-cloud
+{
+    position: absolute;
+    top:50px;
+    right:300px;
+}
+
+#hello
+{
+    margin: 20px 0px;
+}
 
 p
 {
-    margin: 0px 0px 10px 0px;
+    margin: 0px 0px 40px 0px;
     font-family: sans-serif;
 }
 button
@@ -56,14 +73,11 @@ h2
 {
     font-family: sans-serif;
     font-size: 27px;
-    
-
 }
 
 .profile
 {
     padding: 200px 100px;
-    
 }
 h2
 {
@@ -74,29 +88,13 @@ h2
 .bottom-container
 {
   font-family: sans-serif;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding: 200px 100px;
   font-size: 27px;
 }
 
-.bottom-cloud
-{
-    position: absolute;
-    bottom:50px;
-    left:250px;
-}
 
-.top-cloud
-{
-    position: absolute;
-    top:50px;
-    right:300px;
-}
 
-#hello
-{
-    margin-bottom: 17px;
-}
+
 
 .profilepic
 {
@@ -140,12 +138,11 @@ hr
     background-color: #E4F9F5;
     padding: 7px;
     margin-top: 25px;
-    padding-bottom: 100px;
-    padding-top: 50px;
+    padding: 200px 100px;
 }
 #myskills
 {
-    margin-top: 10px;
+    padding-top: 100px;
 }
 
 .CV
@@ -184,18 +181,24 @@ h3
 {
     background-color: #19476d6c;
     color: black;
-    padding: 20px 20px 35px 20px;
+    
     border: none;
     border-radius: 13px;
-    font-size: 20px;
+    font-size: 30px;
     font-family: sans-serif;
     cursor: pointer;
-    height: 50px;
+    margin: 12px 12px;
 }
 .contactbtn:hover
 {
     text-decoration: underline;
 }
 
+footer
+{
+    background-color: #2c607e;
+    font-family: sans-serif;
+    font-size: 27px;
+}
 
 
