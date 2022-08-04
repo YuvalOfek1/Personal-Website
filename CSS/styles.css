@@ -10,11 +10,11 @@ body{
 .top-container
 {
     background-color: #2c607e;
-    padding-top: 100px;
+    padding:200px 100px;
     position: relative;
     font-family: "Dancing Script", cursive;
     font-size: 24px;
-    padding-bottom: 100px;
+    
 }
 
 .bottom-cloud
@@ -162,14 +162,16 @@ h3
 
 .icon
 {
-    width:20px;
-    margin-right: 5px;
+    width:35px;
+    position: absolute;
+    left:10px;
+    top: 25px;
 
 }
 
 #github
 {
-    width: 22px;
+    width: 37px;
 }
 
 .contact-me
@@ -181,12 +183,13 @@ h3
 {
     background-color: #19476d6c;
     color: black;
-    
+    position: relative;
     border: none;
     border-radius: 13px;
-    font-size: 30px;
+    font-size: 40px;
     font-family: sans-serif;
     cursor: pointer;
+    width: 300px;
     margin: 12px 12px;
 }
 .contactbtn:hover
@@ -199,6 +202,7 @@ footer
     background-color: #2c607e;
     font-family: sans-serif;
     font-size: 27px;
+    padding: 20px;
 }
 
 
