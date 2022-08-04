@@ -104,6 +104,17 @@ h2
 {
     padding-bottom: 10px;
 }
+hr
+{
+    width: 7%;
+    color: gray;
+    border-width: 10px;
+
+
+    /*dotted*/
+    border-style: dotted none none none;
+
+}
 .skill-row
 {
     /*makes it inline block*/
