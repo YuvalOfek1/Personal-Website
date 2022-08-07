@@ -294,8 +294,9 @@ a:hover
 
 .footerdiv
 {
-    margin: 10px 20px;
+    
     display: inline-block;
+    margin: 20px 10px;
 }
 .copyrightimg
 {
