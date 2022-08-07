@@ -89,12 +89,25 @@ footer
 {
     background-color: #66BFBF;
     font-family: sans-serif;
-    color: #EAF6F6;
+    color: black;
     font-size: 15px;
-    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    position: relative;
 }
 
+a{
+    color:#11999E;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
 
+}
+
+a:hover
+{
+    color: #EAF6F6;
+}
 
 
 .top-container
@@ -194,25 +207,28 @@ footer
 {
     background-color: #E4F9F5;
     margin-top: 25px;
-    margin: 100px auto 100px auto;
+    margin: 0px auto;
     padding: 40px 0px 70px 0px;
 }
 
 .icon
 {
-    width:35px;
-    position: absolute;
-    left:10px;
-    bottom: 15px;
+    width:21px;
+    margin-right: 5px;
+   
+
 }
 #gmail
 {
-    bottom: 18px;
+    position: absolute;
+    bottom: 20px;
+    left:15px;
+    width: 26px;
 }
 
 #github
 {
-    width: 37px;
+    width: 25px;
 }
 
 .contact-me
@@ -223,20 +239,20 @@ footer
 .contactbtn
 {
 
-      background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-  -webkit-border-radius: 19;
-  -moz-border-radius: 19;
-  border-radius: 13px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 19;
+    -moz-border-radius: 19;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
     position: relative;
     font-size: 40px;
     cursor: pointer;
@@ -267,10 +283,24 @@ footer
     margin-top: 25px;
 }
 
+.copyright
+{
+    margin-top: 20px;
+    display: inline-block;
+    margin-bottom: 0px;
+}
 
 
 
-
+.footerdiv
+{
+    margin: 10px 20px;
+    display: inline-block;
+}
+.copyrightimg
+{
+    display: inline-block;
+}
 
 
 
