@@ -79,6 +79,7 @@ hr
     border-width: 8px;
     border-bottom: none;
     margin-top: 100px;
+    margin-bottom: 0;
   
     /*dotted*/
     border-style: dotted none none none;
@@ -236,6 +237,7 @@ footer
 {
     margin-bottom: 10px;
     font-family: sans-serif;
+    padding-top: 100px;
 }
 .contactbtn
 {
@@ -303,7 +305,13 @@ footer
 {
     display: inline-block;
 }
-
+.projects{
+    background-color:#E4F9F5 ;
+}
+#myprojects
+{
+    margin-top: 0;
+}
 .project-img
 {
     width:25px;
