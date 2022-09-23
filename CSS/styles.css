@@ -351,3 +351,16 @@ footer
 {
     color:#f85e2f ;
 }
+
+.Simon{
+    color: #18da6f;
+}
+.Simon:hover
+{
+    color:#1acc38 ;
+}
+.simon-img{
+    width: 35px;
+    /*round img*/
+    
+}
