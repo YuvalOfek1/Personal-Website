@@ -111,15 +111,11 @@ body{
 
 .testimonial-image
 {
-    width:20%;
+    width:250px;
     border-radius: 100%;
     margin: 20px;
     height: 250px;
     
-}
-
-#mico{
-    width:250px;
 }
 .testimonial-text{
     padding: 6%;
