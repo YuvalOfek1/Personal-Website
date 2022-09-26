@@ -117,6 +117,10 @@ body{
     height: 250px;
     
 }
+
+#mico{
+    width:40%;
+}
 .testimonial-text{
     padding: 6%;
 }
